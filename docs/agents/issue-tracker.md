@@ -20,7 +20,7 @@ PRs as a request surface: no.
 
 - Map: one issue labelled `wayfinder:map`; its body contains Destination, Notes, Decisions so far, Not yet specified, and Out of scope. It is an index of resolved decisions, not a list of open work.
 - Child: a native sub-issue labelled `wayfinder:research`, `wayfinder:prototype`, `wayfinder:grilling`, or `wayfinder:task`. Create all issues before wiring relationships. Refer to each issue by its linked title.
-- Parent relationship: POST `repos/naufalahmadfauz/clipz/issues/<map-number>/sub_issues` with the child's numeric database `issue_id`. Preserve the map's sub-issue order.
+- Parent relationship: POST `repos/naufalahmadfauz/clipz/issues/<map-number>/sub_issues` with the child's numeric database ID in the `sub_issue_id` field. Preserve the map's sub-issue order.
 - Blocking: POST `repos/naufalahmadfauz/clipz/issues/<child-number>/dependencies/blocked_by` with the blocker's numeric database `issue_id`. Read that ID from the issue API, not its number or GraphQL node ID.
 - Frontier: paginate the map's native sub-issues; retain open, unassigned children whose blockers are all closed. Choose the first in map order. Query dependency endpoints when needed to verify state.
 - Claim: assign the selected issue to the driving developer before work, usually with `gh issue edit <number> --add-assignee @me`. Re-read to detect competing claims.

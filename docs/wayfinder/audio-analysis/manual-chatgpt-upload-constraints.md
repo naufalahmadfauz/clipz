@@ -1,6 +1,6 @@
 # Manual ChatGPT Chat uploads: capacity and coverage evidence
 
-**Retrieved:** 2026-09-27. **Question:** "Establish manual ChatGPT upload and context constraints." Sources are official **ChatGPT Chat** help articles, not API limits. These are mutable service descriptions, not versioned compatibility promises. No account was inspected, no file was uploaded, and no model or data-analysis test was run.
+**Retrieved:** 2026-09-27. **Question:** [Establish manual ChatGPT upload and context constraints](https://github.com/naufalahmadfauz/clipz/issues/9). Sources are official **ChatGPT Chat** help articles, not API limits. These are mutable service descriptions, not versioned compatibility promises. No account was inspected, no file was uploaded, and no model or data-analysis test was run.
 
 ## 1. Verified upload limits are several different limits
 

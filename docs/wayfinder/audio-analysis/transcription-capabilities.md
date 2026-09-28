@@ -1,6 +1,6 @@
 # Independent-track transcription: capability evidence
 
-**Researched:** 2026-09-27. **Assigned decision:** "Establish faster-whisper accuracy and throughput controls." **Scope:** research for the [accepted brief](accepted-brief.md), not a selected transcription policy.
+**Researched:** 2026-09-27. **Assigned decision:** [Establish faster-whisper accuracy and throughput controls](https://github.com/naufalahmadfauz/clipz/issues/6). **Scope:** research for the [accepted brief](accepted-brief.md), not a selected transcription policy.
 
 ## Evidence and version boundary
 

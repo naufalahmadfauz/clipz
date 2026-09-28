@@ -1,6 +1,6 @@
 # Loudness, spikes and cross-track reaction evidence
 
-**Retrieved:** 2026-09-27. **Question:** "Establish useful loudness, spike, and reaction evidence." Standards inspected: **ITU-R BS.1770-5 (November 2023)**, **EBU R 128 v5 (November 2023)** and **EBU Tech 3341 v4 (November 2023)**. These establish measurement semantics, not gaming-event quality. No recordings, meters or runtime experiments were executed.
+**Retrieved:** 2026-09-27. **Question:** [Establish useful loudness, spike, and reaction evidence](https://github.com/naufalahmadfauz/clipz/issues/8). Standards inspected: **ITU-R BS.1770-5 (November 2023)**, **EBU R 128 v5 (November 2023)** and **EBU Tech 3341 v4 (November 2023)**. These establish measurement semantics, not gaming-event quality. No recordings, meters or runtime experiments were executed.
 
 ## 1. Verified measurement distinctions
 

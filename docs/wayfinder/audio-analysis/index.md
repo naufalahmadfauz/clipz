@@ -1,8 +1,8 @@
 # Audio-analysis Wayfinder assets
 
-Durable planning evidence for the Wayfinder map **Audio-first gaming analysis: a design ready for /to-spec**.
+Durable planning evidence for the Wayfinder map [Audio-first gaming analysis: a design ready for /to-spec](https://github.com/naufalahmadfauz/clipz/issues/2).
 
-Canonical tracker: GitHub Issues in `naufalahmadfauz/clipz`. Find the open issue labelled `wayfinder:map`; its URL is added here after issue migration.
+Canonical tracker: GitHub Issues in `naufalahmadfauz/clipz`. The map's native sub-issues and blocking relationships determine the current frontier. Local `.scratch/` files retain migration history; continue live decisions on GitHub.
 
 ## Planning baseline
 
@@ -20,3 +20,11 @@ Canonical tracker: GitHub Issues in `naufalahmadfauz/clipz`. Find the open issue
 - [Windows and Colab runtime/distribution](windows-colab-runtime-distribution.md)
 
 These reports record research retrieved on 2026-09-27. They distinguish verified documentation/source findings from inference, proposals, and unrun experiments. Mutable service and tool behavior must be rechecked when validation tickets require it.
+
+## Continue the map
+
+```text
+/wayfinder https://github.com/naufalahmadfauz/clipz/issues/2
+```
+
+The destination remains an evidence-backed design ready for `/to-spec`. Consult the [GitHub tracker conventions](../../agents/issue-tracker.md) when creating, claiming, or resolving a decision.

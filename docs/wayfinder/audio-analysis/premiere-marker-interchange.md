@@ -1,6 +1,6 @@
 # Premiere markers and timestamp interchange
 
-**Retrieved:** 2026-09-27. **Question:** "Establish Premiere marker and timestamp interchange options." Adobe's current UXP references, first-party samples/help, and Apple's archived **Final Cut Pro 7 XML Interchange Format** establish capabilities below. Context7 discovery was checked against Adobe references. No Premiere instance, importer, plugin, XML fixture or round-trip was executed; compatibility with the user's installed release remains unverified.
+**Retrieved:** 2026-09-27. **Question:** [Establish Premiere marker and timestamp interchange options](https://github.com/naufalahmadfauz/clipz/issues/10). Adobe's current UXP references, first-party samples/help, and Apple's archived **Final Cut Pro 7 XML Interchange Format** establish capabilities below. Context7 discovery was checked against Adobe references. No Premiere instance, importer, plugin, XML fixture or round-trip was executed; compatibility with the user's installed release remains unverified.
 
 ## 1. Interchange routes and their actual boundaries
 

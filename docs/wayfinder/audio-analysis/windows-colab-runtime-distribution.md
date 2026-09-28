@@ -1,6 +1,6 @@
 # Reproducible Windows and Colab runtime constraints
 
-**Retrieved:** 2026-09-27. **Question:** "Establish reproducible Windows and Colab runtime constraints." Completed by the coordinating session after repeated delegated-agent usage-limit failures. Facts below come from primary documentation and the linked release-source investigations; proposed policies remain human decisions. No dependencies, model weights, GPU profiles, installation environments or Colab sessions were tested.
+**Retrieved:** 2026-09-27. **Question:** [Establish reproducible Windows and Colab runtime constraints](https://github.com/naufalahmadfauz/clipz/issues/11). Completed by the coordinating session after repeated delegated-agent usage-limit failures. Facts below come from primary documentation and the linked release-source investigations; proposed policies remain human decisions. No dependencies, model weights, GPU profiles, installation environments or Colab sessions were tested.
 
 ## 1. Supported packaging mechanisms, not a selected dependency matrix
 

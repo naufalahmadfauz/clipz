@@ -1,6 +1,6 @@
 # Acoustic laughter and shouting: candidate evidence
 
-**Retrieved:** 2026-09-27. **Question:** "Establish credible acoustic laughter and shouting options." This is a comparison shortlist, not a supported-model or product-tier decision. “Verified” means documented/source-inspected, not locally executed. No models or audio were downloaded, and no performance, calibration, or corpus experiments were run.
+**Retrieved:** 2026-09-27. **Question:** [Establish credible acoustic laughter and shouting options](https://github.com/naufalahmadfauz/clipz/issues/7). This is a comparison shortlist, not a supported-model or product-tier decision. “Verified” means documented/source-inspected, not locally executed. No models or audio were downloaded, and no performance, calibration, or corpus experiments were run.
 
 ## 1. Small viable shortlist
 

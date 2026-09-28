@@ -1,6 +1,6 @@
 # Media timing, decoding, and synchronization evidence
 
-Retrieved **2026-09-27** for the Wayfinder decision "Establish media timing, decoding, and synchronization capabilities." Research only; no media experiments or performance measurements were performed.
+Retrieved **2026-09-27** for [Establish media timing, decoding, and synchronization capabilities](https://github.com/naufalahmadfauz/clipz/issues/5). Research only; no media experiments or performance measurements were performed.
 
 **Bottom line:** FFmpeg and PyAV support incremental, selected-audio decoding and sharing decoded samples. Preserving recording-session timing requires an explicit relationship between source timestamps, decoded samples, and project time. A raw PCM pipe or faster-whisper's file-loading helper does not retain that relationship. Waveform matching can supply alignment evidence when sufficiently distinctive audio is shared; it cannot establish synchronization without corresponding observations.
 
