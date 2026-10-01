@@ -1,0 +1,245 @@
+{
+  "repository": "naufalahmadfauz/clipz",
+  "branch": "docs/wayfinder-audio-analysis",
+  "issues": {
+    "01": {
+      "number": 3,
+      "id": 5612257102,
+      "title": "Agree the workload, resource, and quality envelope",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/3",
+      "body_hash": "ce4161f7626e93b53938364849f8e27bf954d3e9bfcdc0ef9288669027073f4e"
+    },
+    "02": {
+      "number": 4,
+      "id": 5612257588,
+      "title": "Secure representative recordings and a runtime inventory",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/4",
+      "body_hash": "f401aaa3073b0f6ac184ffd6c272c4bb66732a611c5553f54532a2fd18df6f36"
+    },
+    "03": {
+      "number": 5,
+      "id": 5612258056,
+      "title": "Establish media timing, decoding, and synchronization capabilities",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/5",
+      "body_hash": "ce023a7442b867874b964cd910a4ad98b1893e83d425ffbed62eeb97c4f07e19"
+    },
+    "04": {
+      "number": 6,
+      "id": 5612258575,
+      "title": "Establish faster-whisper accuracy and throughput controls",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/6",
+      "body_hash": "cb8bb8a24c8699757a8dbebcbae9c73269816b796189af10076538603afbd26f"
+    },
+    "05": {
+      "number": 7,
+      "id": 5612259235,
+      "title": "Establish credible acoustic laughter and shouting options",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/7",
+      "body_hash": "f4ed400bf013c575ba31a00750211caf687239a091cc7b5a6a34bc6b87529e15"
+    },
+    "06": {
+      "number": 8,
+      "id": 5612259737,
+      "title": "Establish useful loudness, spike, and reaction evidence",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/8",
+      "body_hash": "5a43d0725e26ca60f452510c585529750988a76e3993aa7cd680162d7dee4578"
+    },
+    "07": {
+      "number": 9,
+      "id": 5612260201,
+      "title": "Establish manual ChatGPT upload and context constraints",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/9",
+      "body_hash": "a635654c79fc91142b0612c1e6bab40a1e433f2aaf8121c77ed18232c3ad6f8d"
+    },
+    "08": {
+      "number": 10,
+      "id": 5612260670,
+      "title": "Establish Premiere marker and timestamp interchange options",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/10",
+      "body_hash": "0d611b3cb145a7ee1d0c55defb37a51f5aa63016df95bd2e483ab5aef7a4e7f4"
+    },
+    "09": {
+      "number": 11,
+      "id": 5612261130,
+      "title": "Establish reproducible Windows and Colab runtime constraints",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/11",
+      "body_hash": "c4a9a0fabad53e094c4ad0fff0336c2c654815337b933de12c68286f74648fca"
+    },
+    "10": {
+      "number": 12,
+      "id": 5612261891,
+      "title": "Define project, source, track, channel, and speaker identity",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/12",
+      "body_hash": "48d103906079ca5c33d8cf07e271b73039d028762207f0c4cf75bbd36a7fd6ca"
+    },
+    "11": {
+      "number": 13,
+      "id": 5612262388,
+      "title": "Choose the project clock and synchronization contract",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/13",
+      "body_hash": "496498cd6bd51436707148275352250e7cf6866ce8f029207821296fb4e49730"
+    },
+    "12": {
+      "number": 14,
+      "id": 5612262813,
+      "title": "Choose the transcription, language, and inference policy",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/14",
+      "body_hash": "56933c25660d4ce7b71cef35af6279d4f3cd0852fcbdad2f1d94cd741df368be"
+    },
+    "13": {
+      "number": 15,
+      "id": 5612263333,
+      "title": "Decide whether mixed-track diarization belongs in the first release",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/15",
+      "body_hash": "60870e3fe3e773425e1485d15fd3abb54d0b35e4ac8cdf7e32648abe2f3cb952"
+    },
+    "14": {
+      "number": 16,
+      "id": 5612263764,
+      "title": "Choose loudness, spike, silence, and coincident-reaction semantics",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/16",
+      "body_hash": "860638deef7cbbb9df6e5adb4e1259c9f4d9584738dee96ebc716279791f5478"
+    },
+    "15": {
+      "number": 17,
+      "id": 5612264227,
+      "title": "Choose acoustic detector candidates and evidence gates",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/17",
+      "body_hash": "eb59eb6025f3bc75d00fa0a1eb0ec7d34a8f38c6da3af310e8514483baf2acc3"
+    },
+    "16": {
+      "number": 18,
+      "id": 5612264664,
+      "title": "Choose bounded audio decoding, PCM sharing, and scheduling",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/18",
+      "body_hash": "eb25a4721528814cf7be661ae0489fc42adcb9223ccb8326069e9d7b11eb8e57"
+    },
+    "17": {
+      "number": 19,
+      "id": 5612265055,
+      "title": "Define the persistent evidence model and extensible JSON contract",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/19",
+      "body_hash": "725640c091a05dc16ee1aa6265bd0d670252beb216ff2b996866bef19f099210"
+    },
+    "18": {
+      "number": 20,
+      "id": 5612265546,
+      "title": "Choose cache invalidation and resumable job boundaries",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/20",
+      "body_hash": "4d3ea59afe5cf52496de3315921e31bbab2082794e291c2537ce1e8fe689aba1"
+    },
+    "19": {
+      "number": 21,
+      "id": 5612265946,
+      "title": "Choose candidate regions and compact LLM evidence exports",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/21",
+      "body_hash": "a53acd192894a7c3a8767d6c8d1b1083250db3328f69c7bcab0e22dea349f40e"
+    },
+    "20": {
+      "number": 22,
+      "id": 5612266569,
+      "title": "Choose readable transcript and tabular export semantics",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/22",
+      "body_hash": "ee6033cae48165d817327248afe1680bbcb699f69710f932b2c7ae964696880c"
+    },
+    "21": {
+      "number": 23,
+      "id": 5612266987,
+      "title": "Choose the Premiere marker round-trip contract",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/23",
+      "body_hash": "6544d362f682e2b790257123e21f6c43a910d8f6d7afe714daa0f1013d46105f"
+    },
+    "22": {
+      "number": 24,
+      "id": 5612267399,
+      "title": "Define CLI workflows and the reusable engine boundary",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/24",
+      "body_hash": "b06edebec77bd32df8f0a8ec25288d3f2a0c31f76ef52971738347d27c6543cf"
+    },
+    "23": {
+      "number": 25,
+      "id": 5612267806,
+      "title": "Choose reproducible distribution and Colab compatibility",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/25",
+      "body_hash": "fa10f213d99ea1e41ece5dfa69e1c467f805e58d6234c3333e1c3acab1c9bbaf"
+    },
+    "24": {
+      "number": 26,
+      "id": 5612268269,
+      "title": "Set benchmark protocols and architecture-validation gates",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/26",
+      "body_hash": "e7ca8d4a57a12e61188f4f3d36715e16b4b64a9369aa554c67fc2f3e9ff6d155"
+    },
+    "25": {
+      "number": 27,
+      "id": 5612268702,
+      "title": "Confirm evidence-backed scope and readiness for /to-spec",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/27",
+      "body_hash": "661dbae07390cfd3c9f7ddcb208cf755ece0e67fdedb1a307eb59bd9ff775aa5"
+    },
+    "26": {
+      "number": 28,
+      "id": 5612269230,
+      "title": "Set the audio-only discovery and probing boundary",
+      "html_url": "https://github.com/naufalahmadfauz/clipz/issues/28",
+      "body_hash": "d038f22d90a0bad9a272e9a2e49aeb8509fc56ea1e2067df2a746f8bca134944"
+    }
+  },
+  "source_hashes": {
+    "01": "2fcd0dd8f9bea76b9ad3407a4522408ea75c70d95a4df2f6b22d869549ba76a7",
+    "02": "27de0df213793db0ec6c7b0730619d5d649277bc41ede534fb8226a071726541",
+    "03": "4cdf47d71faf42da954b3d83540a6eb15f1556dce8e463bd37987ce57f018940",
+    "04": "31e8badf0ed149e14c80ea27359cec5b76e9739939433268ee8ad30de3f799a4",
+    "05": "1cfab189039c9e70a89338ca350047a6031e78ae09f6d85e45f1791eace59690",
+    "06": "b78c2f4baa3b2f61ae8df44f808ef0cf59d2dbee62b92e19bc99c1a1c314b73b",
+    "07": "afd48ea8d48c0b8284ee12340eec75716af98f7b6e4bc444635d670f382c490e",
+    "08": "71e4dd236bfad9ad98971441c7a2ccbbfbdc3467765dbb129a12d9917e399991",
+    "09": "133a1cff7890556b12366ca2a5c2d8f719444ad3c2cdd7f4839989282de90fb3",
+    "10": "ed4aa1e99d37432b060f9c0111d3aacbbdd1c34c3887b42865b220fc9f160d9a",
+    "11": "2af534feaed501621746ca1fc69ecbf85ab954b7b8b7aee423a2c9fd2edb3031",
+    "12": "49c271ade17df02793a9fe4f995c446aceafeb6d2fc13f281297c24e906e4e8a",
+    "13": "1dbe8c83e64f83e4688023afd8ee261f29b00cf20b07ba000a227f3899054675",
+    "14": "c23a9f7aa175661452077a216d1133d3f67f51a0c763e918bde2bfff4ecbf18b",
+    "15": "c5e6d2bdee65c04f96f367f55fd7db5c6682c3f5d4a5d478078389440d3b6772",
+    "16": "97bcbf79ceaf3bbb277833fda9e7da0b65f826cee0b994d00c480f0db0f34e47",
+    "17": "0d273d78262f33d4cf306bbe8852200c52a607fdf24a14abbb07a623c2502b43",
+    "18": "b810b6b0357ffc70a7c0daa157011b65b677f27e03960ac5f7cd45e7d1ea1779",
+    "19": "adfb680250939f4b9972a7e44091277962c08a9fd26cd6d086bf10eb44c80b85",
+    "20": "c785309f09326124e7f4c0ed3d9e8b214328148be0aaed06069d96efa3b030b6",
+    "21": "86edb46cade884e723cbf3ea5e61d12cb329a2a0f4023660952b6cdba59449d4",
+    "22": "fbda5c6e745455092d13b4f034a064499b44afb25b42046e2a3878a30e757202",
+    "23": "71f83043f659256c8f74de55bd8c1239c9e4772aa09cee5a26303d673066c478",
+    "24": "62a0f4a62704a3031368b8ec120a3d58e206a0793a5c5af644f2ae28d9b39ac0",
+    "25": "0f3154d565c25dd9f39a79e4de3602fcf4326c3eb39fdc87eb2024b246bb57cf",
+    "26": "5f1d46c4ec90f73d839b89f925f85218e75897f1b7c035c561a8ebc1e7663f28"
+  },
+  "map": {
+    "number": 2,
+    "id": 5612256320,
+    "title": "Audio-first gaming analysis: a design ready for /to-spec",
+    "html_url": "https://github.com/naufalahmadfauz/clipz/issues/2",
+    "body_hash": "e75e127887456ac6a2794d6235bffbec757a4b8d9fb1d2e24a7ebe8c1ee588b8"
+  },
+  "asset_commit": "5faa3a8c6becaf53769ab048099751d4f9c53fb3",
+  "published": true,
+  "verification": {
+    "children": 26,
+    "closed_research": 7,
+    "open": 19,
+    "dependencies": 69,
+    "frontier": [
+      {
+        "title": "Agree the workload, resource, and quality envelope",
+        "url": "https://github.com/naufalahmadfauz/clipz/issues/3"
+      },
+      {
+        "title": "Secure representative recordings and a runtime inventory",
+        "url": "https://github.com/naufalahmadfauz/clipz/issues/4"
+      },
+      {
+        "title": "Define project, source, track, channel, and speaker identity",
+        "url": "https://github.com/naufalahmadfauz/clipz/issues/12"
+      }
+    ]
+  }
+}
